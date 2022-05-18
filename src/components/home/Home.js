@@ -7,7 +7,7 @@ function Home() {
   const [filter, setFilter] = useContext(FilterContext);
 
   function setCategory(e) {
-    setFilter(e.target.nextSibling.innerText);
+    setFilter(e.target.parentElement.innerText);
   }
 
   return (
