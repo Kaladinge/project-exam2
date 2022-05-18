@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44808ccd.css",
+    "main.js": "/static/js/main.0e741150.js",
+    "static/js/787.30143318.chunk.js": "/static/js/787.30143318.chunk.js",
+    "static/media/brygga-bergen-hero.jpg": "/static/media/brygga-bergen-hero.27a2c475c4ab20322e71.jpg",
+    "static/media/thumbnail-guesthouse.jpg": "/static/media/thumbnail-guesthouse.a0294136fd5243a1d20e.jpg",
+    "static/media/thumbnail-hotel.jpg": "/static/media/thumbnail-hotel.3ee540acab2240387c90.jpg",
+    "static/media/thumbnail-bnb.jpg": "/static/media/thumbnail-bnb.1b004f158f7eaba35162.jpg",
+    "static/media/instagram-icon.png": "/static/media/instagram-icon.7e0b8d72c15fb400355d.png",
+    "index.html": "/index.html",
+    "main.44808ccd.css.map": "/static/css/main.44808ccd.css.map",
+    "main.0e741150.js.map": "/static/js/main.0e741150.js.map",
+    "787.30143318.chunk.js.map": "/static/js/787.30143318.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44808ccd.css",
+    "static/js/main.0e741150.js"
+  ]
+}
