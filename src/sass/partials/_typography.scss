@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* accommodations */
+.accommodations--title {
+  font-size: 25px;
+}
+
+.accommodations--address {
+  font-size: 20px;
+  color: $colorDarkGrey;
+}
+
+.accommodations--facility {
+  font-size: 14px;
+}
+
+.accommodations--price {
+  font-size: 60px;
+  color: $colorDarkGrey;
+}
+
+/* accommodation */
+.accommodation--textcontainer {
+  font-size: 20px;
+}
+
+.accommodation--distance {
+  font-size: 14px;
+}
+
+.accommodation--area {
+  font-weight: 600;
+}

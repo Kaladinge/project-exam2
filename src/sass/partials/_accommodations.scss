@@ -1,0 +1,29 @@
+.accommodations {
+  &--image {
+    border-radius: 20px;
+    border: 1px solid #808080;
+  }
+
+  & a {
+    text-decoration: none;
+    color: black;
+  }
+
+  &--facility {
+    background-color: $colorDarkGrey;
+  }
+
+  &--category {
+    border: 2px solid #d9d9d9;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  &--category--clicked {
+    border: 2px solid black;
+  }
+}
+
+.question-box {
+  background-color: $colorLightGrey;
+}
